@@ -21,6 +21,9 @@ This version includes a creative visual background as a design experiment. A cle
 - Business Analytics
 
 ## Preview
+## Preview
+
+![StoreSense Dashboard](StoreSense-Dashboard.png)
 
 
 ## Author
