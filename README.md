@@ -22,7 +22,7 @@ This version includes a creative visual background as a design experiment. A cle
 
 ## Preview
 
-![StoreSense Dashboard](Store-Sense Dashobard.png)
+![StoreSense Dashboard](StoreSense_Dashboard.png)
 
 
 ## Author
