@@ -22,8 +22,7 @@ This version includes a creative visual background as a design experiment. A cle
 
 ## Preview
 
-![StoreSense Dashboard](./StoreSense_Dashboard.png)
-
+![StoreSense Dashboard](https://github.com/aditi10998/Visualizations/tree/main)
 
 ## Author
 Aditi Rajguru
